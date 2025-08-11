@@ -14,13 +14,13 @@ See the LICENSE file for details.
 - It does **not** aim to be a fully featured, production-ready solution.
 
 ### Warnings:
-1. This is my **first GitHub project**.
-2. This is my **first Python project**.
-3. I do **not** understand the Czech language - parts of the original Perl script are in Czech, so interpretation may be imperfect.
+- This is my **first GitHub project**.
+- This is my **first Python project**.
+- I do **not** understand the Czech language - parts of the original Perl script are in Czech, so interpretation may be imperfect.
+- 100% compatibility with the `.typ` **text** (`.txt`) format is **not** a priority.
 
 ### Main Goal:
 - Provide a simple CLI-based tool capable of **decompiling `.typ` files** without relying on any GUI.
-- 100% compatibility with the `.typ` **text** (`.txt`) format is **not** a priority.
 
 ### Contributions:
 Pull requests, issues, and comments are **highly welcome** and strongly encouraged.
